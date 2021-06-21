@@ -10,7 +10,7 @@
 
 
 		<classes>
-			<class name="TestNG.VerifyWay2Automation" />
+			<class name="TestNGTest.VerifyWay2Automation" />
 		</classes>
 
 	</test> <!-- Test -->
